@@ -1,0 +1,9 @@
+.col4Custom {
+  background-color: teal;
+  border: 1px solid steelblue;
+  min-height: 300px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}

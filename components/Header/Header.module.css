@@ -1,0 +1,16 @@
+.logoEMS {
+  font-weight: bold;
+  color: chocolate;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+.logoEMS:hover, .logoEMS:focus {
+  border: none;
+  text-decoration: none;
+  outline: none;
+}
+.itemWrapLogo:hover, .itemWrapLogo:focus {
+  border-bottom: 2px solid transparent !important;  
+}
